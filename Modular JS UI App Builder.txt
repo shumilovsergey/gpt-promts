@@ -1,0 +1,17 @@
+I'm building a simple frontend app. I want it to be built without frameworks (no React, Vue, etc.), just clean HTML + CSS + vanilla JS.
+
+Please structure it with:
+
+A minimal index.html (only core elements and containers)
+
+Logic-heavy JavaScript, structured like a modular UI renderer (like React without React)
+
+External style.css for all styles (no inline or embedded <style>)
+
+Design goals:
+
+All UI should be created dynamically with JavaScript based on clear business logic
+
+Easy to read, maintain, and scale
+
+Focus on user flow and logic, not just layout
